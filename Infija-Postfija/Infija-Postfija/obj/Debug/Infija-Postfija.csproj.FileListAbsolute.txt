@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.exe
+c:\users\alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.exe
+c:\users\alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.pdb
+C:\Users\Alex\documents\visual studio 2017\Projects\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.csprojResolveAssemblyReference.cache
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.exe.config
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.exe
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.pdb
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.exe
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\bin\Debug\Infija-Postfija.pdb
+C:\Users\RUIZPC\Desktop\Infija-Postfija\Infija-Postfija\obj\Debug\Infija-Postfija.csprojResolveAssemblyReference.cache
